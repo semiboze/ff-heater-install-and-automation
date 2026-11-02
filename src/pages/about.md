@@ -6,7 +6,7 @@ description: N-BOXへのFFヒーター設置とESP32による自動化
 ---
 
 # このプロジェクトについて
-
+![N-BOXに設置したFFヒーター](/images/N-BOX-FF-HEATER-ON-the-SHELF.webp)
 ## なぜFFヒーターを設置するのか
 
 冬の車中泊を快適にするため、軽自動車のN-BOXにFFヒーターを設置し、さらにESP32による自動制御を試みるプロジェクトです。
